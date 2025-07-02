@@ -2,5 +2,5 @@
 
 # 👋 Hi, I'm Your Meteorologists!
 
-![My Profile Photo](profile.jpg)  
-<!-- If image is in a subfolder: ![Photo](/images/profile.jpg) -->
+![My Profile Photo](app_maker.png)  
+
